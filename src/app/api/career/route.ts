@@ -42,7 +42,7 @@ export async function POST(req: Request) {
             Use proper markdown formatting without code blocks. Reference recent trends and include salary ranges where appropriate.`,
         },
       ],
-      model: "mixtral-8x7b-32768",
+      model: "llama-3.3-70b-versatile",
       stream: true,
       temperature: 0.7,
     });
