@@ -39,7 +39,7 @@ export const Header = () => {
 
             <nav className="hidden md:flex gap-6 text-black/60 items-center">
               <Link
-                href="https://github.com/Venu005/student-resume"
+                href="https://github.com/Aftab3008/student-resume"
                 className="hover:underline"
               >
                 About
